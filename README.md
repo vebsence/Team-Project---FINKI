@@ -52,12 +52,6 @@ contain essential internet security facts directly related to the final question
 must explore carefully, collect information, and remember key details to successfully
 escape.
 
-Project Structure
- Main Level
- Player Blueprint
- Game Logic Blueprints
- UI / Menu System
-
 Installation:
 1. Download the game archive
 2. Extract the files
