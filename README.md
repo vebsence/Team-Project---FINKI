@@ -53,7 +53,7 @@ must explore carefully, collect information, and remember key details to success
 escape.
 
 Installation:
-1. Download the game archive
+1. Download the game archive (Link: https://github.com/vebsence/Team-Project---FINKI/releases/tag/Release)
 2. Extract the files
 3. Run the executable (.exe) file
 4. No additional installation is required
