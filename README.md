@@ -58,14 +58,6 @@ Project Structure
  Game Logic Blueprints
  UI / Menu System
 
-Installation and System Requirements
-Platform: Windows (Desktop)
-Requirements:
-Windows 10 or later
-8 GB RAM (recommended)
-Dedicated or integrated GPU supporting DirectX 11
-Keyboard and mouse
-
 Installation:
 1. Download the game archive
 2. Extract the files
