@@ -77,13 +77,14 @@ Gameplay Mechanics
 - Item collection (keys, power up)
 - Stamina system (drain & regeneration)
 - Door interaction (open & close, swing)
+- Physics Door / Animations
 - Locker interaction (hiding)
-- Audio-driven enemy detection
+- 3D Sounds
 - Question-based puzzle at the final stage
 - Fail-state system that resets progress upon incorrect answers
 - Educational Aspect
 - Notes random spawn locations
-- AI roaming, chase, crawl and idle.
+- AI roaming, chase and idle.
 
 The game incorporates educational content related to internet security. Players must
 explore the environment to find notes that spawn in random locations containing
