@@ -22,16 +22,16 @@ it forever.
 
 Project Goal
 The goal of this project is to:
--> Design and implement an interactive 3D game
--> Apply core game mechanics such as movement, interaction, and collision
+- Design and implement an interactive 3D game
+- Apply core game mechanics such as movement, interaction, and collision
 detection
--> Use Unreal Engine 5 features such as blueprints, lighting, and audio systems
--> Learn internet security facts as part of the escape
+- Use Unreal Engine 5 features such as blueprints, lighting, and audio systems
+- Learn internet security facts as part of the escape
 
 Technologies Used
--> Unreal Engine 5.6
--> Blueprint Visual Scripting
--> 3D assets and sound effects
+- Unreal Engine 5.6
+- Blueprint Visual Scripting
+- 3D assets and sound effects
 
 How to Play:
 
@@ -45,9 +45,9 @@ How to Play:
     - Shift + Move - Run (consumes stamina)
 
 2. Objective:
--> The player must correctly answer all four questions displayed at the main entrance in
+- The player must correctly answer all four questions displayed at the main entrance in
 order to complete the game.
--> Important letters are scattered throughout the school in random locations. These
+- Important letters are scattered throughout the school in random locations. These
 contain essential internet security facts directly related to the final questions. Players
 must explore carefully, collect information, and remember key details to successfully
 escape.
@@ -73,18 +73,17 @@ Installation:
 4. No additional installation is required
 
 Gameplay Mechanics
--> First-person exploration
--> Item collection (keys, power up)
--> Stamina system (drain & regeneration)
--> Door interaction (open & close, swing)
--> Locker interaction (hiding)
--> Audio-driven enemy detection
--> Question-based puzzle at the final stage
--> Fail-state system that resets progress upon incorrect answers
--> Educational Aspect
--> Notes random spawn locations
--> AI roaming, chase, crawl and idle.
-
+- First-person exploration
+- Item collection (keys, power up)
+- Stamina system (drain & regeneration)
+- Door interaction (open & close, swing)
+- Locker interaction (hiding)
+- Audio-driven enemy detection
+- Question-based puzzle at the final stage
+- Fail-state system that resets progress upon incorrect answers
+- Educational Aspect
+- Notes random spawn locations
+- AI roaming, chase, crawl and idle.
 
 The game incorporates educational content related to internet security. Players must
 explore the environment to find notes that spawn in random locations containing
